@@ -1,6 +1,5 @@
 // find the sum of numbers divisible  by 5 //
 
-
 const prompt = require ("prompt-sync")();
 
 let num = prompt("ENTER number: ");
